@@ -1,3 +1,5 @@
+# .OTTER_LOG files
+*.OTTER_LOG
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -114,9 +116,290 @@ __pypackages__/
 
 # Celery stuff
 celerybeat-schedule
-celerybeat.pid
+celerybeat.pid.
+├── hw
+│   ├── hw01
+│   │   ├── gradescope.png
+│   │   ├── hw01.ipynb
+│   │   ├── little_women.png
+│   │   └── piper.jpg
+│   ├── hw02
+│   │   ├── array_cumsum.png
+│   │   ├── array_diff.png
+│   │   ├── hw02.ipynb
+│   │   ├── inventory.csv
+│   │   ├── nico.jpg
+│   │   ├── old_faithful.csv
+│   │   ├── president_births.csv
+│   │   ├── sales.csv
+│   │   ├── temperatures.csv
+│   │   └── world_population.csv
+│   ├── hw03
+│   │   ├── boston.csv
+│   │   ├── hw03.ipynb
+│   │   ├── manila.csv
+│   │   ├── nst-est2016-alldata.csv
+│   │   ├── scatter.png
+│   │   ├── tubbs.jpeg
+│   │   ├── unemployment.csv
+│   │   ├── unemployment.png
+│   │   ├── var1.png
+│   │   ├── var2.png
+│   │   └── var3.png
+│   ├── hw04
+│   │   ├── burrito.csv
+│   │   ├── burritos_types.csv
+│   │   ├── hw04.ipynb
+│   │   ├── kim.jpg
+│   │   ├── ratings.csv
+│   │   └── sf2019.csv
+│   ├── hw05
+│   │   ├── cal_fb.csv
+│   │   ├── hw05.ipynb
+│   │   └── jojo.jpeg
+│   ├── hw06
+│   │   ├── hw06.ipynb
+│   │   ├── kulfi.jpeg
+│   │   ├── poko-miso.png
+│   │   ├── roulette_wheel.csv
+│   │   ├── roulette_wheel.jpeg
+│   │   └── top_movies_2017.csv
+│   ├── hw07
+│   │   ├── age.csv
+│   │   ├── gus.jpeg
+│   │   ├── happiness_scores.csv
+│   │   ├── hw07.ipynb
+│   │   └── us_happiness_factors.csv
+│   ├── hw08
+│   │   ├── hw08.ipynb
+│   │   ├── mocha.jpeg
+│   │   └── votes.csv
+│   └── README.md
+├── lab
+│   ├── lab01
+│   │   ├── cat_lengths.png
+│   │   ├── dash.JPG
+│   │   ├── data8logo.png
+│   │   ├── error.jpg
+│   │   ├── gradescope.png
+│   │   ├── lab01.ipynb
+│   │   └── map.jpg
+│   ├── lab02
+│   │   ├── data8logo.png
+│   │   ├── farmers_markets.csv
+│   │   ├── imdb.csv
+│   │   ├── lab02.ipynb
+│   │   ├── lego.png
+│   │   ├── statement.png
+│   │   └── world_population.csv
+│   ├── lab03
+│   │   ├── array_multiplication.jpg
+│   │   ├── array_round.jpg
+│   │   ├── chaining_method_calls.png
+│   │   ├── data8logo.png
+│   │   ├── excel_array.jpg
+│   │   ├── imdb.csv
+│   │   ├── java.png
+│   │   ├── lab03.ipynb
+│   │   ├── more_restaurant_bills.csv
+│   │   ├── statement.jpg
+│   │   └── world_population.csv
+│   ├── lab04
+│   │   ├── apply.png
+│   │   ├── data8logo.png
+│   │   ├── lab04.ipynb
+│   │   ├── mel2.jpeg
+│   │   ├── movies_by_year.csv
+│   │   ├── raw_compensation.csv
+│   │   └── toby.png
+│   ├── lab05
+│   │   ├── Austen_PrideAndPrejudice.txt
+│   │   ├── comparisons.png
+│   │   ├── data8logo.png
+│   │   ├── lab05.ipynb
+│   │   ├── large_srswor_salary.csv
+│   │   ├── lincoln.jpeg
+│   │   ├── nacho_reactions.png
+│   │   ├── player_data.csv
+│   │   ├── salary_data.csv
+│   │   ├── small_srswor_salary.csv
+│   │   └── winston.jpeg
+│   ├── lab06
+│   │   ├── data8logo.png
+│   │   ├── lab06.ipynb
+│   │   └── teddy_cookie.jpeg
+│   ├── lab07
+│   │   ├── data8logo.png
+│   │   ├── lab07.ipynb
+│   │   ├── oreo.jpeg
+│   │   └── star_bakers.csv
+│   └── README.md
+├── lec
+│   ├── lec01
+│   │   └── lec01.ipynb
+│   ├── lec03
+│   │   ├── cones.csv
+│   │   ├── lec03.ipynb
+│   │   └── nba_salaries.csv
+│   ├── lec04
+│   │   ├── lec04.ipynb
+│   │   └── nba_salaries.csv
+│   ├── lec05
+│   │   ├── du_bois.csv
+│   │   ├── lec05.ipynb
+│   │   └── nba_salaries.csv
+│   ├── lec06
+│   │   ├── lec06.ipynb
+│   │   ├── live-lec06.ipynb
+│   │   ├── nba_salaries.csv
+│   │   ├── nc-est2019-agesex-res.csv
+│   │   ├── welcome_survey_fa22.csv
+│   │   └── welcome_survey_sp24.csv
+│   ├── lec07
+│   │   ├── actors.csv
+│   │   ├── lec07.ipynb
+│   │   ├── nc-est2019-agesex-res.csv
+│   │   └── top_movies_2017.csv
+│   ├── lec08
+│   │   ├── lec08.ipynb
+│   │   ├── lec08-updated.ipynb
+│   │   └── top_movies_2017.csv
+│   ├── lec09
+│   │   ├── 2022_female_actors.csv
+│   │   ├── lec09.ipynb
+│   │   ├── top_movies_2017.csv
+│   │   └── welcome_survey_sp24.csv
+│   ├── lec10
+│   │   ├── cones.csv
+│   │   ├── family_heights.csv
+│   │   ├── lec10.ipynb
+│   │   ├── lec10_modified.ipynb
+│   │   └── welcome_survey_sp24.csv
+│   ├── lec11
+│   │   ├── lec11.ipynb
+│   │   ├── lec11_modified.ipynb
+│   │   ├── skyscrapers.csv
+│   │   └── welcome_survey_sp24.csv
+│   ├── lec12
+│   │   ├── lec12-empty.ipynb
+│   │   ├── lec12.ipynb
+│   │   ├── lec12-modified.ipynb
+│   │   ├── station.csv
+│   │   └── trip.csv
+│   ├── lec13
+│   │   ├── lec13.ipynb
+│   │   ├── lec13_modified.ipynb
+│   │   ├── trip.csv
+│   │   └── welcome_survey_sp24.csv
+│   ├── lec14
+│   │   └── lec14.ipynb
+│   ├── lec15
+│   │   ├── lec15.ipynb
+│   │   ├── lec15_modified.ipynb
+│   │   └── united.csv
+│   ├── lec16
+│   │   ├── lec16.ipynb
+│   │   └── united.csv
+│   ├── lec17
+│   │   └── lec17.ipynb
+│   ├── lec18
+│   │   ├── lec18.ipynb
+│   │   ├── lec18_modified.ipynb
+│   │   └── scores_by_section.csv
+│   ├── lec19
+│   │   ├── baby.csv
+│   │   └── lec19.ipynb
+│   ├── lec20
+│   │   ├── baby.csv
+│   │   ├── bta.csv
+│   │   └── lec20.ipynb
+│   ├── lec21
+│   │   ├── blank.txt
+│   │   ├── lec21.ipynb
+│   │   └── lec21_modified.ipynb
+│   ├── lec23
+│   │   ├── lec23.ipynb
+│   │   └── san_francisco_2019.csv
+│   ├── lec24
+│   │   ├── baby.csv
+│   │   ├── lec24.ipynb
+│   │   ├── san_francisco_2019.csv
+│   │   └── sf_sample.csv
+│   ├── lec25
+│   │   ├── baby.csv
+│   │   ├── lec25.ipynb
+│   │   └── lec25_modified.ipynb
+│   ├── lec26
+│   │   ├── baby.csv
+│   │   ├── exams_fa18.csv
+│   │   ├── lec26.ipynb
+│   │   └── united.csv
+│   ├── lec27
+│   │   ├── lec27.ipynb
+│   │   ├── san_francisco_2019.csv
+│   │   └── united.csv
+│   ├── lec28
+│   │   ├── baby.csv
+│   │   └── lec28.ipynb
+│   ├── lec29
+│   │   ├── family_heights.csv
+│   │   ├── hybrid.csv
+│   │   ├── lec29.ipynb
+│   │   └── sat_scores.csv
+│   ├── lec30
+│   │   ├── family_heights.csv
+│   │   ├── lec30.ipynb
+│   │   └── sat2014.csv
+│   ├── lec31
+│   │   ├── district_demographics2016.csv
+│   │   ├── hybrid.csv
+│   │   └── lec31.ipynb
+│   ├── lec32
+│   │   ├── district_demographics2016.csv
+│   │   ├── dugong.csv
+│   │   ├── family_heights.csv
+│   │   ├── lec32.ipynb
+│   │   └── us_women.csv
+│   ├── lec33
+│   │   ├── baby.csv
+│   │   └── lec33.ipynb
+│   ├── lec34
+│   │   ├── banknote.csv
+│   │   ├── ckd.csv
+│   │   └── lec34.ipynb
+│   ├── lec35
+│   │   ├── breast-cancer.csv
+│   │   ├── ckd.csv
+│   │   └── lec35.ipynb
+│   ├── lec37
+│   │   └── lec37.ipynb
+│   └── README.md
+├── LICENSE
+├── project
+│   ├── project1
+│   │   ├── child_mortality.csv
+│   │   ├── countries.csv
+│   │   ├── fertility.csv
+│   │   ├── harvey.png
+│   │   ├── life_expectancy.csv
+│   │   ├── panda.jpg
+│   │   ├── pew_population_projection.png
+│   │   ├── population.csv
+│   │   ├── poverty.csv
+│   │   └── project1.ipynb
+│   ├── project1c
+│   │   ├── child_mortality.csv
+│   │   ├── countries.csv
+│   │   ├── fertility.csv
+│   │   ├── harvey.png
+│   │   ├── life_expectancy.csv
+│   │   ├── pew_population_projection.png
+│   │   ├── population.csv
+│   │   └── project1c.ipynb
+│   └── README.md
+└── README.md
 
-# SageMath parsed files
+55 directories, 226 filesles
 *.sage.py
 
 # Environments
