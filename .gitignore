@@ -1,3 +1,4 @@
+.virtual_documents/
 # .OTTER_LOG files
 *.OTTER_LOG
 # Byte-compiled / optimized / DLL files
