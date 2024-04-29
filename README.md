@@ -1,5 +1,31 @@
 # Data 8 Public Materials for Spring 2024
 
+## Environment Setup
+
+### Prerequisites
+
+Ensure you have Anaconda or Miniconda installed on your system.
+
+### Installing Requirements
+   
+```bash
+conda create --name <venv-name> 
+conda activate <venv-name>
+pip install -r requirements.txt # Install the dependencies
+jupyter lab # Recommended way of coding
+```
+### Removing the Environments
+
+```bash
+conda deactivate <venv-name> # If the env is activated
+conda env remove --name <venv-name>
+```
+### Other 
+
+You could modify the `requirements.txt` to install different versions of the packages.
+
+## Course Information
+
 This repository contains the publicly available materials used in the Data 8 Foundations of Data Science course during the Spring 2024 semester at UC Berkeley.
 
 This includes:
