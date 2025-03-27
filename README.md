@@ -1,5 +1,11 @@
 # Data 8 Public Materials for Spring 2024
 
+## For Your Reference
+I have finished:
+* hw01-hw12
+* lab01-lab10
+* proj01-03
+
 ## Environment Setup
 
 ### Prerequisites
